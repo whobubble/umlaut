@@ -3,8 +3,7 @@
   :url "https://github.com/workco/umlaut"
   :license {:name "MIT License"
             :url "https://opensource.org/licenses/MIT"}
-  :dependencies [[org.clojure/clojure "1.8.0"]
-                 [clojure-future-spec "1.9.0-alpha14"]
+  :dependencies [[org.clojure/clojure "1.9.0"]
                  [camel-snake-kebab "0.4.0"]
                  [instaparse "1.4.7"]]
   :plugins [[lein-cljfmt "0.5.6"]
